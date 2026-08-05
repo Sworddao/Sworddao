@@ -137,21 +137,6 @@ Collection of academic projects completed during the Islington College period.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sworddao&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E7D32&icon_color=2E7D32&text_color=c9d1d9&ring_color=2E7D32" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sworddao&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2E7D32&text_color=c9d1d9&langs_count=8" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Sworddao&theme=dark&hide_border=true&background=0d1117&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
-
 ## Trophies
 
 <p align="center">
