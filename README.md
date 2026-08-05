@@ -147,16 +147,6 @@ Collection of academic projects completed during the Islington College period.
 
 ---
 
-## Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sworddao&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=10&ring=2E7D32&bg_color=0d1117&title_color=2E7D32" alt="Trophies"/>
-  </a>
-</p>
-
----
-
 ## Connect
 
 <p align="center">
